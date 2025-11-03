@@ -69,6 +69,7 @@ public class QueryParameterDemo {
 		String firstname = jsonPathView.get("data.first_name");
 
 		Assert.assertEquals(firstname,"prachi","Verify firstname.");
+		//jay Shree Radhe
 
 
 	}
